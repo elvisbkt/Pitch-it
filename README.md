@@ -1,6 +1,6 @@
 # pitch-board
 
-## BY Elvis Biketi https://github.com/elvisbkt/   02/08/19
+## BY Elvis Biketi https://github.com/elvisbkt/   05/08/19
 
 ## Description
 This is a web app created using python flask.It allows users to submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
