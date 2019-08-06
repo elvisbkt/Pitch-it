@@ -1,4 +1,4 @@
-# pitch-board
+# pitch-it
 
 ## BY Elvis Biketi https://github.com/elvisbkt/   05/08/19
 
