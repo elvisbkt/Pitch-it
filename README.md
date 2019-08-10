@@ -41,7 +41,7 @@ To develop the application , youll need to preinstall a few application. includi
 |:------------| :---------|:--------|
 | user signs up | fills sign up form on entry | home page displayed and user can access and add categories|
 |user logs in |user enters credentials and password|home page displayed and user can access and add categories|
-|create pitch category |click on create category |redirected to page where user can create new pitches with regards to the category|
+
 
 
 ## LICENSE
