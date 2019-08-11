@@ -10,6 +10,8 @@ class UpdateProfile(FlaskForm):
 class PostAPitch (FlaskForm):
     title = StringField('Title',validators = [Required()])
     content = TextAreaField('Pitch',validators = [Required()])
+    category = SelectField('Type',choices=[('Business','Business'), ('Software','Software')],validators=[Required()])
+
     submit = SubmitField('Pitch')
 
 class PostAComment (FlaskForm):
