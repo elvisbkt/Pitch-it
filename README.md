@@ -5,10 +5,7 @@ This project was generated with python version 3.6.
 ### By elvisbkt
 
 ##  Description
-This is a python web appliction that allows a user to create an account, log into it and publish as well as read pitches posted by other users. the application also allows users to comment on pitches once logged in.
-
-## Live site
-https://best-pitch.herokuapp.com/
+This is a python web appliction that allows a user to create an account, log into it and publish as well as read pitches posted by other users. the application also allows users to comment on pitches once logged in
 
 
 ## User Stories
